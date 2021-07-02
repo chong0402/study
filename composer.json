@@ -1,16 +1,15 @@
 {
-	"name": "gitstudy",
-	"description": "PHP",
-	"keywords": [
-		"php",
-		"library"
-	],
-	"type": "library",
-	"license": "Apache-2.0",
-	"authors": [{
-		"name": "liucjong"
-	}],
-	"require": {
-		"php": ">=5.6"
-	}
+  "name": "chong0402/study",
+  "description": "study",
+  "keywords": ["php", "study"],
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "chong0402"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  }
 }
