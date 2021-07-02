@@ -1,0 +1,22 @@
+{
+    "name": "git study",
+    "description": "PHP",
+    "keywords": [
+        "php",
+        "library"
+    ],
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "liucjong"
+        }
+    ],
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "AlibabaCloud\\Sts\\": ""
+        }
+}
